@@ -13,7 +13,7 @@ const AllEmployees = () => {
 
     //function to get employees
     const getAllEmployees = () =>{
-        axios.get(`/employees`).then(
+        axios.get(`../employees`).then(
             (response) =>{
                 //success
                 console.log(response.data);
