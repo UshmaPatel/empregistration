@@ -13,7 +13,7 @@ const AllEmployees = () => {
 
     //function to get employees
     const getAllEmployees = () =>{
-        axios.get(`${base_url}/employees`).then(
+        axios.get(`https://github.com/UshmaPatel/springboot.git/employees`).then(
             (response) =>{
                 //success
                 console.log(response.data);
