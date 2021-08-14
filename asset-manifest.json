@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/empregistration/static/css/main.a617e044.chunk.css",
-    "main.js": "/empregistration/static/js/main.4a494fb1.chunk.js",
-    "main.js.map": "/empregistration/static/js/main.4a494fb1.chunk.js.map",
+    "main.js": "/empregistration/static/js/main.5a569d02.chunk.js",
+    "main.js.map": "/empregistration/static/js/main.5a569d02.chunk.js.map",
     "runtime-main.js": "/empregistration/static/js/runtime-main.a5b01e22.js",
     "runtime-main.js.map": "/empregistration/static/js/runtime-main.a5b01e22.js.map",
     "static/css/2.912185aa.chunk.css": "/empregistration/static/css/2.912185aa.chunk.css",
@@ -21,6 +21,6 @@
     "static/css/2.912185aa.chunk.css",
     "static/js/2.4f6e0287.chunk.js",
     "static/css/main.a617e044.chunk.css",
-    "static/js/main.4a494fb1.chunk.js"
+    "static/js/main.5a569d02.chunk.js"
   ]
 }
