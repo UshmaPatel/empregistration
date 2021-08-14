@@ -1,4 +1,4 @@
 
-const base_url="https://github.com/UshmaPatel/springboot.git";
+const base_url="https://springboot124.herokuapp.com";
 
 export default base_url;
