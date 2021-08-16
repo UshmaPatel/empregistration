@@ -12,7 +12,7 @@ import {
 const Employee=(  {employee, update })=>{
 
     const deleteEmployee=(employeeNo) => {
-      axios.delete(`${base_url}/employee/${employeeNo}`).then(
+      axios.delete(`/employee/${employeeNo}`).then(
         (response)=>{
             toast.success("Employee Deleted");
             update(employeeNo);

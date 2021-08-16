@@ -12,7 +12,7 @@ import { BrowserRouter as Router, Switch, Route,Link} from "react-router-dom";
 import AllEmployees from './components/AllEmployees';
 import About from './components/About';
 import Contact from './components/Contact';
-
+import 'react-app-polyfill/stable';
 
 function App() {
 const btnHandle = () => {

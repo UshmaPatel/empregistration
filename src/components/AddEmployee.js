@@ -55,7 +55,7 @@ const AddEmployee= () =>{
 
     //creating function to post data on server
     const postDatatoServer = (data)=>{
-        axios.post(`${base_url}/employee`,data).then(
+        axios.post(`/employee`,data).then(
             (response)=>{
                 console.log(response);
                 console.log("success");
